@@ -1,0 +1,9 @@
+{
+  "name": "security-api",
+  "version": "1.0.0",
+  "description": "Company Security Portal Lambda API",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^3.14.3"
+  }
+}
